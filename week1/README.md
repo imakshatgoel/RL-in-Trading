@@ -1,4 +1,4 @@
-# Week 1 <br> <small>WiDS | RL in Trading/small>
+# Week 1 <br> <small>WiDS | RL in Trading<small>
 
 This week begins with the basics of Python and its libraries:
 
@@ -6,13 +6,11 @@ This week begins with the basics of Python and its libraries:
 
 2. Matplotlib
 
-3. Pandas
-
 ## **Resources**
 
 ## Python Basics
 
-Throughout this course, you will primarily use Python for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics:
+Throughout this project, you will primarily use Python for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics:
 
 - [Python Basics Video](https://youtu.be/kqtD5dpn9C8?feature=shared)
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
@@ -35,7 +33,7 @@ Matplotlib is Python's essential plotting library, widely used for data visualiz
 - [Matplotlib Documentation](https://matplotlib.org/)
 - [Matplotlib Video Tutorial](https://youtu.be/OZOOLe2imFo?feature=shared)
 
-## Pandas
+## Pandas (Optional)
 
 Pandas is a Python library used for working with datasets. It is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. Pandas has data structures for data analysis. The most commonly used data structures are Series and DataFrame. Series is one-dimensional. It consists of one column. DataFrame is two dimensional. It consists of rows and columns. For basic introduction use the following guide:
 
