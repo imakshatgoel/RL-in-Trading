@@ -47,3 +47,12 @@ Pandas is a Python library used for working with datasets. It is a fast, powerfu
 - [Pandas Documentation](https://pandas.pydata.org/)
 - [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
 - [Pandas Video Tutorial](https://youtu.be/vmEHCJofslg?feature=shared)
+- 
+## github and jupyter notebooks
+
+These are useful tools that will stay along with us throughout the project and unfortunately there is no clear-cut way to learn them, I have attached the documentation and some youtube videos but to be honest they won't be really helpful and you don't need to know that much about these. Feel free to use AI tools whenever you get stuck with these :)
+
+- [Jupyter Notebooks Tutorial](https://youtu.be/HW29067qVWk?si=HyqPBWvKapGasfTX)
+- [Jupyter Notebooks in VS code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+- [github documentation](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+- [github basics video](https://youtu.be/a9u2yZvsqHA?si=Ku59twhQrbyYse9V)
