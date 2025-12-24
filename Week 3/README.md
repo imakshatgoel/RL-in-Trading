@@ -14,4 +14,4 @@ You can google or chatgpt terms like rolling mean, close price, adjusted close, 
 
 I think this week is quite heavy so better keep constantly trying, ask us if you are stuck with anything
 
-# All The Best!!
+### All The Best!!
