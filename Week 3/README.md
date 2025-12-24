@@ -5,3 +5,6 @@ Firstly, watch lecture 1 and 2 from this playlist: https://www.youtube.com/playl
 
 After that read chapter 3 from the book: https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
 
+Refer to Grokking textbook provided with this week and complete the assignment in the notebool=k assignment_3.ipynb
+
+Apart from that we would also learn how to extract financial data from yahoo finance and interpret it to make meaningful observations
